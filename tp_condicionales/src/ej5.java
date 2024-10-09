@@ -2,8 +2,8 @@
 Escribe un programa que pida al usuario que elija entre piedra, papel o tijera. Luego, el programa
 elige una opción al azar y determina quién gana. Imprime el resultado del juego.*/
 
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 public class ej5 {
     public static void main(String[] args) {
